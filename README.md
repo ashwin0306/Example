@@ -1,5 +1,4 @@
-#Example
-# 🐶 Stanford Dogs Dataset – Image Classification with CNN, ViT, and Mamba
+# Stanford Dogs Dataset – Image Classification with CNN, ViT, and Mamba
 
 ## 📊 Dataset
 
